@@ -8,7 +8,7 @@ How to use
 ===================
 In order to use our overlays, add:
 
-    include vendor/overlay/aoscp/configs/common.mk
+    include vendor/aoscp-overlay/configs/common.mk
 
 at the end of vendor/aoscp/configs/common.mk.
 
